@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TimeCalculator</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="text_time_calculator">Калькулятор времени</string>
+    <string name="hint_for_time">формат 1h23m32s</string>
+    <string name="text_result">Результат</string>
 </resources>
